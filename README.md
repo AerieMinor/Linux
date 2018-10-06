@@ -1,3 +1,2 @@
 # LinuxFinal
-Portion of Final for Linux Course and 
-Portion of Midterm exam for Linux Course
+Samples of working with command line in Linux and comprehension of permissions.
